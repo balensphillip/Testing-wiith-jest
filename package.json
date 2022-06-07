@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^28.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ddiiro/Testing-wiith-jest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ddiiro/Testing-wiith-jest/issues"
+  },
+  "homepage": "https://github.com/Ddiiro/Testing-wiith-jest#readme"
 }
