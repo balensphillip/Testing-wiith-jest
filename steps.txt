@@ -1,0 +1,10 @@
+Step up.
+    Created a file called CI assignments.
+    Created an index file.
+    Instatiated a project.(npm init)
+    Installed jest(shall be our testing package - npm install jest)
+    Installed a test file(index.test.js)
+    Ran npm test to see if the connection is made after adding "jest" as the package 
+      for testing in the tests section of my json package (returned a failed test)
+    Create a gitHub account
+

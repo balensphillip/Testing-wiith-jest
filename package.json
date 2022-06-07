@@ -1,0 +1,14 @@
+{
+  "name": "ci-assignment",
+  "version": "1.0.0",
+  "description": "We are working on CI-CD pipelines ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joseph & Phillip",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
